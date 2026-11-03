@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Bài tập lớn: Class Deadline Hub (Next.js)",
+    "subjectSlug": "lap-trinh-web",
+    "type": "project",
+    "dueAt": "2026-11-20T23:59:00+07:00",
+    "description": "Xây dựng cổng deadline của lớp bằng Next.js App Router: SSG/ISR/SSR, NextAuth, Middleware, phân quyền và SEO. Nộp mã nguồn kèm README trên LMS.",
+    "createdAt": "2026-10-20T08:00:00+07:00"
+  },
+  {
+    "id": "2",
+    "title": "Bài tập tuần 6: Responsive layout với Flexbox & Grid",
+    "subjectSlug": "lap-trinh-web",
+    "type": "assignment",
+    "dueAt": "2026-10-28T23:59:00+07:00",
+    "description": "Dựng lại giao diện trang tin tức theo mẫu Figma, đảm bảo hiển thị tốt trên mobile, tablet và desktop.",
+    "createdAt": "2026-10-14T08:00:00+07:00"
+  },
+  {
+    "id": "3",
+    "title": "Kiểm tra 15 phút: React Hooks",
+    "subjectSlug": "lap-trinh-web",
+    "type": "quiz",
+    "dueAt": "2026-11-10T09:00:00+07:00",
+    "description": "Kiểm tra trắc nghiệm trên lớp về useState, useEffect, useMemo và quy tắc của Hooks.",
+    "createdAt": "2026-10-27T08:00:00+07:00"
+  },
+  {
+    "id": "4",
+    "title": "Bài tập SQL: Truy vấn lồng và GROUP BY",
+    "subjectSlug": "co-so-du-lieu",
+    "type": "assignment",
+    "dueAt": "2026-11-06T23:59:00+07:00",
+    "description": "Viết 20 câu truy vấn trên CSDL quản lý sinh viên, nộp file .sql kèm ảnh kết quả chạy.",
+    "createdAt": "2026-10-23T08:00:00+07:00"
+  },
+  {
+    "id": "5",
+    "title": "Kiểm tra giữa kỳ Cơ sở dữ liệu",
+    "subjectSlug": "co-so-du-lieu",
+    "type": "exam",
+    "dueAt": "2026-10-30T07:30:00+07:00",
+    "description": "Thi viết 60 phút: mô hình ER, đại số quan hệ và SQL cơ bản. Mang theo thẻ sinh viên.",
+    "createdAt": "2026-10-01T08:00:00+07:00"
+  },
+  {
+    "id": "6",
+    "title": "Thực hành: Chuẩn hoá lược đồ đến 3NF/BCNF",
+    "subjectSlug": "co-so-du-lieu",
+    "type": "lab",
+    "dueAt": "2026-11-18T17:00:00+07:00",
+    "description": "Phân tích phụ thuộc hàm và chuẩn hoá lược đồ cho bài toán thư viện. Nộp báo cáo PDF.",
+    "createdAt": "2026-11-01T08:00:00+07:00"
+  },
+  {
+    "id": "7",
+    "title": "Bài tập: Kế thừa và đa hình (Java)",
+    "subjectSlug": "lap-trinh-huong-doi-tuong",
+    "type": "assignment",
+    "dueAt": "2026-11-05T23:59:00+07:00",
+    "description": "Cài đặt hệ thống quản lý nhân sự với lớp trừu tượng, interface và ghi đè phương thức.",
+    "createdAt": "2026-10-22T08:00:00+07:00"
+  },
+  {
+    "id": "8",
+    "title": "Kiểm tra giữa kỳ Lập trình hướng đối tượng",
+    "subjectSlug": "lap-trinh-huong-doi-tuong",
+    "type": "exam",
+    "dueAt": "2026-11-26T13:30:00+07:00",
+    "description": "Thi thực hành trên máy 90 phút. Không sử dụng tài liệu.",
+    "createdAt": "2026-10-15T08:00:00+07:00"
+  },
+  {
+    "id": "9",
+    "title": "Mini project: Game cờ caro hướng đối tượng",
+    "subjectSlug": "lap-trinh-huong-doi-tuong",
+    "type": "project",
+    "dueAt": "2026-12-12T23:59:00+07:00",
+    "description": "Làm theo nhóm 3 người. Áp dụng ít nhất 2 mẫu thiết kế, có sơ đồ lớp UML.",
+    "createdAt": "2026-10-29T08:00:00+07:00"
+  },
+  {
+    "id": "10",
+    "title": "Nộp tài liệu đặc tả yêu cầu (SRS)",
+    "subjectSlug": "cong-nghe-phan-mem",
+    "type": "assignment",
+    "dueAt": "2026-11-01T23:59:00+07:00",
+    "description": "Tài liệu SRS theo mẫu IEEE 830 cho đồ án nhóm, gồm use case và yêu cầu phi chức năng.",
+    "createdAt": "2026-10-10T08:00:00+07:00"
+  },
+  {
+    "id": "11",
+    "title": "Sprint review lần 1",
+    "subjectSlug": "cong-nghe-phan-mem",
+    "type": "project",
+    "dueAt": "2026-11-14T13:30:00+07:00",
+    "description": "Mỗi nhóm demo sản phẩm sau sprint 1 (10 phút) và nộp sprint backlog.",
+    "createdAt": "2026-10-24T08:00:00+07:00"
+  },
+  {
+    "id": "12",
+    "title": "Thực hành: Viết test case và kiểm thử đơn vị",
+    "subjectSlug": "cong-nghe-phan-mem",
+    "type": "lab",
+    "dueAt": "2026-12-04T23:59:00+07:00",
+    "description": "Thiết kế test case theo phân vùng tương đương, giá trị biên và viết unit test cho module đăng nhập.",
+    "createdAt": "2026-11-02T08:00:00+07:00"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "lap-trinh-web",
+    "code": "INT1434",
+    "name": "Lập trình Web",
+    "lecturer": "ThS. Nguyễn Văn Hùng",
+    "credits": 3,
+    "room": "Phòng 402-A2",
+    "schedule": "Thứ 3, tiết 1–4",
+    "color": "#2563eb",
+    "image": "/images/subjects/lap-trinh-web.png",
+    "description": "Xây dựng ứng dụng web hiện đại với HTML, CSS, JavaScript, React và Next.js: rendering (SSG, ISR, SSR), routing, xác thực, phân quyền và tối ưu SEO.",
+    "grading": [
+      { "label": "Chuyên cần", "weight": 10 },
+      { "label": "Bài tập lớn", "weight": 30 },
+      { "label": "Thi cuối kỳ", "weight": 60 }
+    ]
+  },
+  {
+    "slug": "co-so-du-lieu",
+    "code": "INT1313",
+    "name": "Cơ sở dữ liệu",
+    "lecturer": "TS. Trần Thị Mai",
+    "credits": 3,
+    "room": "Phòng 305-A2",
+    "schedule": "Thứ 4, tiết 7–10",
+    "color": "#059669",
+    "image": "/images/subjects/co-so-du-lieu.png",
+    "description": "Mô hình quan hệ, đại số quan hệ, SQL, chuẩn hoá, thiết kế lược đồ, chỉ mục và giao tác trong hệ quản trị cơ sở dữ liệu.",
+    "grading": [
+      { "label": "Chuyên cần", "weight": 10 },
+      { "label": "Kiểm tra giữa kỳ", "weight": 20 },
+      { "label": "Thực hành", "weight": 20 },
+      { "label": "Thi cuối kỳ", "weight": 50 }
+    ]
+  },
+  {
+    "slug": "lap-trinh-huong-doi-tuong",
+    "code": "INT1332",
+    "name": "Lập trình hướng đối tượng",
+    "lecturer": "ThS. Lê Quốc Bảo",
+    "credits": 3,
+    "room": "Phòng 201-A3",
+    "schedule": "Thứ 5, tiết 1–4",
+    "color": "#d97706",
+    "image": "/images/subjects/lap-trinh-huong-doi-tuong.png",
+    "description": "Lớp, đối tượng, đóng gói, kế thừa, đa hình, giao diện, xử lý ngoại lệ và các mẫu thiết kế cơ bản với Java.",
+    "grading": [
+      { "label": "Chuyên cần", "weight": 10 },
+      { "label": "Bài tập", "weight": 20 },
+      { "label": "Kiểm tra giữa kỳ", "weight": 20 },
+      { "label": "Thi cuối kỳ", "weight": 50 }
+    ]
+  },
+  {
+    "slug": "cong-nghe-phan-mem",
+    "code": "INT1340",
+    "name": "Nhập môn công nghệ phần mềm",
+    "lecturer": "TS. Phạm Đức Long",
+    "credits": 3,
+    "room": "Phòng 504-A2",
+    "schedule": "Thứ 6, tiết 7–10",
+    "color": "#7c3aed",
+    "image": "/images/subjects/cong-nghe-phan-mem.png",
+    "description": "Quy trình phát triển phần mềm, thu thập yêu cầu, UML, kiểm thử, quản lý dự án theo Agile/Scrum và làm việc nhóm.",
+    "grading": [
+      { "label": "Chuyên cần", "weight": 10 },
+      { "label": "Đồ án nhóm", "weight": 40 },
+      { "label": "Thi cuối kỳ", "weight": 50 }
+    ]
+  }
+]

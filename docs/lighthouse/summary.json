@@ -1,0 +1,46 @@
+[
+  {
+    "page": "/",
+    "form": "mobile",
+    "perf": 89,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": "3.7 s",
+    "CLS": "0",
+    "TBT": "100 ms"
+  },
+  {
+    "page": "/",
+    "form": "desktop",
+    "perf": 100,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": "0.6 s",
+    "CLS": "0",
+    "TBT": "0 ms"
+  },
+  {
+    "page": "/deadlines/1",
+    "form": "mobile",
+    "perf": 96,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": "2.8 s",
+    "CLS": "0.03",
+    "TBT": "20 ms"
+  },
+  {
+    "page": "/deadlines/1",
+    "form": "desktop",
+    "perf": 100,
+    "a11y": 100,
+    "bp": 100,
+    "seo": 100,
+    "LCP": "0.6 s",
+    "CLS": "0",
+    "TBT": "0 ms"
+  }
+]
