@@ -30,6 +30,22 @@ export default async function LoginPage({ searchParams }: Props) {
           </p>
         )}
       </section>
+
+      <section className="card mt-4 space-y-3 bg-brand-50 p-5" aria-labelledby="demo-title">
+        <h2 id="demo-title" className="font-semibold text-slate-900">
+          Tài khoản demo
+        </h2>
+        <dl className="space-y-2 text-sm">
+          <div className="rounded-lg bg-white p-3">
+            <dt className="font-semibold text-rose-700">Lớp trưởng (admin)</dt>
+            <dd className="font-mono text-slate-800">admin@ptit.edu.vn / admin123</dd>
+          </div>
+          <div className="rounded-lg bg-white p-3">
+            <dt className="font-semibold text-brand-700">Sinh viên (user)</dt>
+            <dd className="font-mono text-slate-800">sv@ptit.edu.vn / sv123456</dd>
+          </div>
+        </dl>
+      </section>
     </div>
   );
 }
